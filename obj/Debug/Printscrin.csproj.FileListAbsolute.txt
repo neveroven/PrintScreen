@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\projects\Printscrin\bin\Debug\Printscrin.exe.config
+C:\Users\User\Desktop\projects\Printscrin\bin\Debug\Printscrin.exe
+C:\Users\User\Desktop\projects\Printscrin\bin\Debug\Printscrin.pdb
+C:\Users\User\Desktop\projects\Printscrin\obj\Debug\Printscrin.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\projects\Printscrin\obj\Debug\Printscrin.Form1.resources
+C:\Users\User\Desktop\projects\Printscrin\obj\Debug\Printscrin.Properties.Resources.resources
+C:\Users\User\Desktop\projects\Printscrin\obj\Debug\Printscrin.csproj.GenerateResource.cache
+C:\Users\User\Desktop\projects\Printscrin\obj\Debug\Printscrin.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\projects\Printscrin\obj\Debug\Printscrin.exe
+C:\Users\User\Desktop\projects\Printscrin\obj\Debug\Printscrin.pdb
